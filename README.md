@@ -555,19 +555,3 @@ plt.show()
 
 ![](http://www.runoob.com/wp-content/uploads/2018/10/1540013329-8438-text-ex.png)
 
-### 更多参考
-
-**入门教程**
-
-*   [Pyplot tutorial](http://matplotlib.sourceforge.net/users/pyplot_tutorial.html)
-*   [Image tutorial](http://matplotlib.sourceforge.net/users/image_tutorial.html)
-*   [Text tutorial](http://matplotlib.sourceforge.net/users/index_text.html)
-*   [Artist tutorial](http://matplotlib.sourceforge.net/users/artists.html)
-*   [Path tutorial](http://matplotlib.sourceforge.net/users/path_tutorial.html)
-*   [Transforms tutorial](http://matplotlib.sourceforge.net/users/transforms_tutorial.html)
-
-**Matplotlib 文档**
-
-*   [用户指南](http://matplotlib.sourceforge.net/users/index.html)
-*   [常见问题及回答](http://matplotlib.sourceforge.net/faq/index.html)
-*   [截屏](http://matplotlib.sourceforge.net/users/screenshots.html)
